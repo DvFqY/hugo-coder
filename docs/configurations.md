@@ -129,9 +129,9 @@ These are all the parameters used by `hugo-coder` theme.
 
 | Name                          | Type   | Required | Description                                      | Default                          | Example                                          |
 | ----------------------------- | ------ | -------- | ------------------------------------------------ | -------------------------------- | ------------------------------------------------ |
-| author                        | string | Yes      | Author name.                                     |                                  | `"John Doe"`                                     |
+| author                        | string | Yes      | Author name.                                     |                                  | `"血染大橘子"`                                     |
 | info                          | string | Yes      | An headline, job title or similar.               |                                  | `"Full Stack Developer"`                         | 
-| description                   | string | Yes      | Description of the site.                         |                                  | `"John Doe's personal website"`                  |
+| description                   | string | Yes      | Description of the site.                         |                                  | `"血染大橘子 personal website"`                  |
 | keywords                      | string | Yes      | Site keywords.                                   |                                  | `"blog,developer,personal"`                      |
 | avatarURL                     | string | No       | Photo of the author.                             |                                  | `"images/avatar.jpg"`                            | 
 | gravatar                      | string | No       | Gravatar photo of the author                     |                                  | `"john.doe@example.com"`                         | 
@@ -174,7 +174,7 @@ An example:
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://www.4399.com/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
@@ -272,9 +272,9 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  author = "血染大橘子"
+  info = "成功 and 第一次"
+  description = "血染大橘子 personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -318,11 +318,11 @@ disqusShortname = "yourdiscussshortname"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "博客"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "关于"
   weight = 2
   url = "about/"
 ```
@@ -344,7 +344,7 @@ These are the front matter variables used by `hugo-coder` theme.
 | tags             | list   | No       | Add tag(s) to this post.                           |         | `["Hugo", "Go"]`                                                              |
 | categories       | list   | No       | Add categorie(s) to this post.                     |         | `["Hugo", "Go"]`                                                              |
 | series           | list   | No       | Add series to this post (used by OpenGraph).       |         | `["Theme Demo"]`                                                              |
-| author           | list   | No       | Add author to this post.                           |         | `["John Doe"]`                                                                |
+| author           | list   | No       | Add author to this post.                           |         | `["血染大橘子"]`                                                                |
 | externalLink     | string | No       | Link to an external post.                          |         | `"https://github.com/luizdepra/hugo-coder/wiki"`                              |
 | featuredImage    | string | No       | Link/path to add an image below post metadata.     |         | `"https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png"` |
 | math             | bool   | No       | If true, MathJax is enabled only for this post.    | `false` | `true` or `false`                                                             |
