@@ -169,17 +169,17 @@ An example:
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/settings/profile"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
   weight = 2
-  url = "https://www.4399.com/"
+  url = "https://github.com/settings/profile"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://github.com/settings/profile"
 ```
 
 ### Menu Items Configurations
@@ -199,11 +199,11 @@ An example:
 
 ```toml
 [[menu.main]]
-  name = "Blog"
+  name = "博客"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "初衷"
   weight = 2
   url = "about/"
 ```
@@ -304,17 +304,17 @@ disqusShortname = "yourdiscussshortname"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/settings/profile"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://github.com/settings/profile"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://github.com/settings/profile"
 
 # Menu links
 [[menu.main]]
@@ -322,7 +322,7 @@ disqusShortname = "yourdiscussshortname"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "关于"
+  name = "初衷"
   weight = 2
   url = "about/"
 ```
