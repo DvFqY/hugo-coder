@@ -107,37 +107,37 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-2x fa-gitlab"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-2x fa-medium"
 weight = 5
-url = "https://medium.com/@johndoe"
+url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 6
-url = "https://myhugosite.com/index.xml"
+url = "https://github.com/settings/profile"
 rel = "alternate"
 type = "application/rss+xml"
 
@@ -145,12 +145,12 @@ type = "application/rss+xml"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "初衷"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "博客"
 weight = 2
 url = "posts/"
 
@@ -170,7 +170,7 @@ title = "João Ninguém"
 
 [languages.pt-br.params]
 author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
+info = "一个喜欢各种稀奇古怪的人 e 也喜欢探究事物运行原理"
 description = "Sítio pessoal de João Ninguém"
 keywords = "blog,desenvolvedor,pessoal"
 
@@ -180,12 +180,12 @@ weight = 1
 url = "about/"
 
 [[languages.pt-br.menu.main]]
-name = "Blog"
+name = "博客"
 weight = 2
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "Projetos"
+name = "课题"
 weight = 3
 url = "projects/"
 
