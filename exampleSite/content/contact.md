@@ -1,6 +1,6 @@
 +++
 title = "文章"
-slug = "成功的秘诀"
+slug = "contact"
 +++
 
                                                       第一章    富婆的诱惑
