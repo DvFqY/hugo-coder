@@ -9,26 +9,26 @@ tags = [
 ]
 +++
 
-O Hugo vem com vários [Shortcodes Internos](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) para conteúdo rico, assim como uma [Configuração de Privacidade](https://gohugo.io/about/hugo-and-gdpr/) e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.
+O 好难呀，代码真的难学。
 <!--more-->
 ---
 
-## Shortcode do YouTube com privacidade melhorada
+## 
 
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## Shortcode simples do Twitter
-
-{{< twitter_simple 1085870671291310081 >}}
+{{<  >}}
 
 <br>
 
 ---
 
-## Shortcode simples do Vimeo
+## 
 
-{{< vimeo_simple 48912912 >}}
+{{<  >}}
+
+<br>
+
+---
+
+## 
+
+{{<  >}}
