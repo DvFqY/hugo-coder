@@ -111,31 +111,31 @@ url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
+icon = "fa fa-cube"
 weight = 2
 url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+icon = "fa fa-cube"
 weight = 3
 url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
+icon = "fa fa-cube"
 weight = 4
 url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "Medium"
-icon = "fa fa-2x fa-medium"
+icon = "fa fa-cube"
 weight = 5
 url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "RSS"
-icon = "fa fa-2x fa-rss"
+icon = "fa fa-cube"
 weight = 6
 url = "https://github.com/settings/profile"
 rel = "alternate"
