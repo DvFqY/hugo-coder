@@ -185,7 +185,7 @@ weight = 2
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "课题"
+name = "好康的"
 weight = 3
 url = "projects/"
 
