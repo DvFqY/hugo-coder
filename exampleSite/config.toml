@@ -135,7 +135,7 @@ url = "https://github.com/settings/profile"
 
 [[params.social]]
 name = "RSS"
-icon = "fa fa-tag"
+icon = "fa fa-cube"
 weight = 6
 url = "https://github.com/settings/profile"
 rel = "alternate"
