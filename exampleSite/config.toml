@@ -1,8 +1,8 @@
 baseURL = "https://www.4399.com/"
 title = "血染大橘子"
 theme = "hugo-coder"
-languageCode = "zh-cn"
-defaultContentLanguage = "zh-cn"
+languageCode = "en"
+defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
